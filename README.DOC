@@ -1,0 +1,16 @@
+PC-9821 Emulator T98-Next NTOOL Ver 0.07    2002/01/24
+Copyright(C) 2000-2002 Project T98-Next
+
+　PC98実機で使用するT98-Nextのサポートツールです。
+　以下のプログラムが同梱されています。
+　
+　[ROMMAKE]
+　 T98-Nextで使用する実機ROMデータを生成します。
+　
+　[NFDMAKE]
+　 T98-Nextで使用するFDイメージデータを生成します。
+　
+　詳しい使用方法はそれぞれのドキュメントをご覧下さい。
+
+無断転載厳禁 (C)2000-2002 Project T98-Next
+

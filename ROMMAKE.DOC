@@ -1,0 +1,26 @@
+PC-9821 Emulator T98-Next ROMMAKE    2001/01/19
+Copyright(C) 2000-2001 Project T98-Next
+
+■概要
+
+　PC9821 Emulator T98-Nextで使用するROMイメージファイルを生成します。
+　
+■動作環境
+　PC9800/PC9821シリーズ用MS-DOS 3.1以上
+　WindowsのDOS窓は不可
+
+■使用方法
+　>ROMMAKE
+　を実行するだけです。
+　カレントディレクトリにBIOS.ROM SOUND.ROM FONT.ROMが生成されます。
+
+■注意事項
+　仮想８６モードでは使用しないで下さい。
+　SOUND BIOSを切り離す設定にしている場合、SOUND.ROMが生成されません。
+
+　著作は「Project T98-Next」が所有します。
+　本版は、全てにおいて転載は厳禁です。著作者はあらゆる過程および結果に対し、
+　対応の責務を負いません。
+
+無断転載厳禁 (C)2000-2001 Project T98-Next
+
